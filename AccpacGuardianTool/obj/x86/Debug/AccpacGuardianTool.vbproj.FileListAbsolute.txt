@@ -1,0 +1,57 @@
+C:\TempBuild\AccpacGuardianTool\AccpacGuardianTool.exe.config
+C:\TempBuild\AccpacGuardianTool\AccpacGuardianTool.exe
+C:\TempBuild\AccpacGuardianTool\AccpacGuardianTool.pdb
+C:\TempBuild\AccpacGuardianTool\AccpacGuardianTool.xml
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\ResolveAssemblyReference.cache
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacCOMAPI.dll
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacDataSrc.dll
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacFinder.dll
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacMeter.dll
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacSessionManager.dll
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacSignonManager.dll
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.LocResources.dll
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.vbproj.ResolveComReference.cache
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmDispData.resources
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmAPImport.resources
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmGLImport.resources
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmImportAPTrans.resources
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmMDIMain.resources
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.Resources.resources
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.vbproj.GenerateResource.Cache
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.exe
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.xml
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.pdb
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacImportExport.dll
+C:\TempBuild\AccpacGuardianTool\AccpacGuardianTool.exe.manifest
+C:\TempBuild\AccpacGuardianTool\AccpacGuardianTool.application
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.exe.manifest
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.application
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmImportResults.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacCOMAPI.dll
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacDataSrc.dll
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacFinder.dll
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacImportExport.dll
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacMeter.dll
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacSessionManager.dll
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacSignonManager.dll
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\Interop.LocResources.dll
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.vbproj.ResolveComReference.cache
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.exe
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.xml
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.pdb
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmDispData.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmAPImport.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmGLImport.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmImportAPTrans.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmImportResults.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmMDIMain.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.Resources.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.vbproj.GenerateResource.Cache
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.exe.manifest
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.application
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmTermMatch.resources
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmTermMatch.resources
+\\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmAccountsImport.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmAccountsExport.resources
+H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmVendorExport.resources
