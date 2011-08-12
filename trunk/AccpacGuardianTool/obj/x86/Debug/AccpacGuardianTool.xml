@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AccpacGuardianTool
+</name>
+</assembly>
+<members>
+<member name="T:AccpacGuardianTool.dsGuardian.APTransExport1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.APTransExport2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.GlTransExportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Journal_HeadersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Journal_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_HeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_Payment_Schedules_DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian._Account_txtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian._Supplier_txtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.AP0015DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.TermsMatchingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.APTransExport1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.APTransExport2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.GlTransExportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Journal_HeadersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Journal_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_HeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_Payment_Schedules_Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian._Account_txtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian._Supplier_txtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.AP0015Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.TermsMatchingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.APTransExport1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.APTransExport2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.GlTransExportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Journal_HeadersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Journal_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_HeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.Invoice_Payment_Schedules_RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian._Account_txtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian._Supplier_txtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.AP0015RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian.TermsMatchingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsGuardian">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.AccpacImpExpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.VIEWDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.SessionErrorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.APRTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.AccpacImpExpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.VIEWRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.SessionErrorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.APRTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.AccpacImpExpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.VIEWRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.SessionErrorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac.APRTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AccpacGuardianTool.dsAccpac">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
