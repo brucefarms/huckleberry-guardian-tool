@@ -55,3 +55,15 @@ H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\Accpa
 \\red\users\alistair\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmAccountsImport.resources
 H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmAccountsExport.resources
 H:\Customer_Data\Huckleberry\Import Macro\VSProject2008\AccpacGuardianTool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.frmVendorExport.resources
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacCOMAPI.dll
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacDataSrc.dll
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacFinder.dll
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacImportExport.dll
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacMeter.dll
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacSessionManager.dll
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\Interop.AccpacSignonManager.dll
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\Interop.LocResources.dll
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.vbproj.ResolveComReference.cache
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.exe
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.xml
+C:\test\huckleberry-guardian-tool\AccpacGuardianTool\obj\x86\Debug\AccpacGuardianTool.pdb

@@ -26,7 +26,7 @@
     End Sub
 
     Private Sub frmDispData_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
-
+        ' This is a test
     End Sub
 
 End Class
